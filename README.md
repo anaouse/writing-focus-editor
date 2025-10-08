@@ -1,8 +1,8 @@
 # Writing-Focus-Editor
 
-[English](./README.md)
+[English](./README-en.md)
 
-[中文](./README-zh.md)
+[中文](./README.md)
 
 ## why this project
 
