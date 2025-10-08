@@ -1,0 +1,8 @@
+android/app/src/main/cpp/** linguist-vendored
+android/.gradle/** linguist-vendored
+android/app/build/** linguist-vendored
+ios/** linguist-vendored
+windows/** linguist-vendored
+
+lib/** linguist-detectable=true
+android/app/src/main/kotlin/** linguist-detectable=true
